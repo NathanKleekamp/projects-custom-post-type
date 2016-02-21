@@ -2,7 +2,7 @@
 /*
 Plugin Name: Projects Custom Post Type
 Plugin URI: https://github.com/NathanKleekamp
-Description: Projects custom post type
+Description: A simple Projects custom post type with a WP REST API (v2) endpoint.
 Version: 1.0
 License: MIT
 Author: Nathan Kleekamp

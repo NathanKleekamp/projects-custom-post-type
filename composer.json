@@ -1,0 +1,16 @@
+{
+    "name": "NathanKleekamp/hatchback-projects",
+    "type": "wordpress-plugin",
+    "description" : "A simple Projects custom post type with a WP REST API (v2) endpoint.",
+    "authors": [
+        {
+            "name": "Nathan Kleekamp",
+            "email": "nkleekamp@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "version": "dev-master",
+    "require": {
+       "composer/installers": "~1.0"
+    }
+}
